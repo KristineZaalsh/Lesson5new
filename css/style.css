@@ -1,6 +1,6 @@
-.flex-container {width: 1440px; height: 1721px; margin: 0 auto; background-color: aquamarine;
+.flex-container {width: 1440px; height: 1721px; margin: 0 auto; background-color:
 }
-.box-1 {width: 1336px; height: 178px; margin: 0 auto; text-align: center; background-color: aqua;
+.box-1 {width: 1336px; height: 178px; margin: 0 auto; text-align: center; background-color: 
 }
 .title-1 {font-size: 16px; margin-bottom: 4px; line-height: 26px;
 }
@@ -18,12 +18,12 @@
 }
 .description{font-size: 14px; width: 278px; height: 44px; line-height: 22px; color:#5F6980; text-align: left; 
 }
-.icon {width: 36px; height: 36px; color: #F2F4F7; justify-content: space-between 16px; 
+.icon {width: 36px; height: 36px;  justify-content: space-between 16px; 
 }
 
 .container-3 { width: 1440px; height: 460px; background-color: #53535354; align-items: center; height: 460px; margin: 0 auto; 
 }
-.footer-box {width: 1128px ; height: 223px; background-color: antiquewhite; margin-left: 164px; display: flex;
+.footer-box {width: 1128px ; height: 223px; margin-left: 164px; display: flex; padding-bottom: 129px ;
 }
 .box-a {width: 318.046875px; height: 221px; margin-left: 164px;
     margin-right: 73.95px;
@@ -44,5 +44,5 @@
 
 .box-d {width: 107px; height: 127.449951171875; margin-right: 148px;
 }
-.languages {width: 107px; height: 24px; color: #1E1E1E;
+.languages {width: 107px; height: 24px; color: #1E1E1E; margin-bottom: 58.45px;
 }
