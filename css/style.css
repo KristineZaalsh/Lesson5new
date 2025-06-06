@@ -1,10 +1,21 @@
-.flex-container {width: 1440px; height: 1721px; 
+.flex-container {width: 1440px; height: 1721px; margin: 0 auto;
 }
-.box-1 {width: 1336px; height: 178px; margin: 0 auto; display: flex;
+.box-1 {width: 1336px; height: 178px; margin: 0 auto; text-align: center;
 }
-.title-1 {font-size: 16px; 
+.title-1 {font-size: 16px; margin-bottom: 4px; line-height: 26px;
 }
-.title-2 {font-size: 56px; line-height: 62px; 
+.title-2 {font-size: 56px; line-height: 62px; margin-bottom: 16px; line-height: 62px;
 }
-.text-1 {font-size: 20px; line-height: 35px; 
+.text-1 {font-size: 20px; line-height: 35px; text-align: center; margin: 48px ; line-height: 35px;
 }
+.image {width: 310px; height: 230px;
+}
+.container {display: flex; width: 1336px; height: 908px; flex-wrap: wrap; justify-content: space-between;
+}
+.names {font-size: 18px; line-height:  30px; width: 278px; height: 30px; color: #282828;
+}
+.professions {font-size: 14px; width: 278px; height: 22px; line-height: 22px; color: #3E3E59;
+}
+.description{font-size: 14px; width: 278px; height: 44px; line-height: 22px; color:#5F6980;
+}
+.icon {width: 36px; height: 36px; color: #F2F4F7;}
